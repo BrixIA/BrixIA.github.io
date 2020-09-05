@@ -1,0 +1,54 @@
+- name: Alberto Signoroni
+  group: Leadership
+  role: Project Coordinator, DII UniBS
+  avatar: /img/asignoroni.png
+
+- name: Davide Farina
+  group: Leadership
+  role: Leading radiologist, DSMC UniBS
+  avatar: /img/dfarina.png
+
+- name: Mattia Savardi
+  group: Leadership
+  role: Software development, DII UniBS
+  avatar: /img/msavardi.png
+
+- name: Sergio Benini
+  group: Team
+  role: DII UniBS
+  avatar: /img/sbenini.png
+  
+- name: Nicola Adami
+  group: Team
+  role: DII UniBS
+  avatar: /img/nadami.png
+
+- name: Riccardo Leonardi
+  group: Team
+  role: DII UniBS
+  avatar: /img/avatar.png
+
+- name: Paolo Gibellini
+  group: Team
+  role: DSMC UniBS
+  avatar: /img/avatar.png
+
+- name: Filippo Vaccher
+  group: Team
+  role: DSMC UniBS
+  avatar: /img/avatar.png
+
+- name: Marco Ravanelli
+  group: Team
+  role: DSMC UniBS
+  avatar: /img/avatar.png
+
+- name: Andrea Borghesi
+  group: Team
+  role: DSMC UniBS
+  avatar: /img/avatar.png
+
+- name: Roberto Maroldi
+  group: Team
+  role: Head of department, DSMC UniBS
+  avatar: /img/rmaroldi.png

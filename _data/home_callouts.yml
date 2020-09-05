@@ -1,0 +1,11 @@
+style: is-light
+items:
+  - title: 4703 CXR of COVID19 patients
+    subtitle: In DICOM format, including manually annotated Brixia score
+    icon: fa-copy
+  - title: Consensus set
+    subtitle: From 5 radiologist
+    icon: fa-clipboard-check
+  - title: AI-driven severity score extraction
+    subtitle: A CNN for segmentation, alignment, and severity score assessment
+    icon: fa-brain
