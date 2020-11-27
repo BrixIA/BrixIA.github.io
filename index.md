@@ -4,7 +4,7 @@ subtitle: COVID19 severity score assessment project and database
 layout: single_page
 callouts: home_callouts
 show_sidebar: false
-hero_image: img/BrixIA.jpeg
+hero_image: img/BrixIA-loghi.png
 ---
 
 <!-- #region -->
