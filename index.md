@@ -300,16 +300,7 @@ Results of the proposed BS-Net system on five examples from the test-set. (top) 
 
 For any use or reference to this project please cite the following paper.
 
-Preprint avaible [here](https://arxiv.org/abs/2006.04603)
 ```
-@article{sig2020covid,
-  title={End-to-end learning for semiquantitative rating of COVID-19 severity on Chest X-rays},
-  author={Alberto Signoroni and Mattia Savardi and Sergio Benini and Nicola Adami and Riccardo Leonardi and Paolo Gibellini and Filippo Vaccher and Marco Ravanelli and Andrea Borghesi and Roberto Maroldi and Davide Farina},
-  journal={arXiv 2006.04603},
-  url={https://arxiv.org/abs/2006.04603},
-  year={2020}
-}
-
 @article{borghesi2020covid,
   title={COVID-19 outbreak in Italy: experimental chest X-ray scoring system for quantifying and monitoring disease progression},
   author={Borghesi, Andrea and Maroldi, Roberto},
