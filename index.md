@@ -38,7 +38,8 @@ Moreover, we provide the full dataset with the related metadata and <i>Brixia sc
   </div>
 </div>
 
-[Read the paper](https://arxiv.org/abs/2006.04603){: .button}
+[Read MedIA Article](https://doi.org/10.1016/j.media.2021.102046){: .button .is-success} [Read the preprint](https://arxiv.org/abs/2006.04603){: .button}
+
 
 
 
