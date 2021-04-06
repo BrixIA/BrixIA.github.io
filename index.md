@@ -13,6 +13,7 @@ hero_image: img/BrixIA-loghi.jpg
         <div class="content">
           <p> <strong> NEWS: </strong> Paper "BS-Net: learning COVID-19 pneumonia severity on a large Chest X-Ray dataset" accepted to Medical Image Analysis</p>
         </div>
+      </div>
     </article>
 </div>
   
