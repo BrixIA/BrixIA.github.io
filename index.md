@@ -7,7 +7,7 @@ show_sidebar: false
 hero_image: img/BrixIA-loghi.jpg
 ---
 
-<div class="box">
+<div class="notification is-primary box">
     <article class="media">
       <div class="media-content">
         <div class="content">
@@ -83,6 +83,7 @@ During the peak period, the *Brixia-score* has been systematically used at ASST 
     <span>
 Detailed scheme of the proposed architecture. In particular, in the top-middle the CXR to be analyzed is fed to the network. The produced outputs are: the segmentation mask of the lungs (top-left); the aligned mask (middle-left); the *Brixia-score* (top-right).
     </span>
+	  <br />
 	  <a class="button is-medium" href="https://github.com/BrixIA/Brixia-score-COVID-19">
           <span class="icon">
             <i class="fab fa-github"> </i>
