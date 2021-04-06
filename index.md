@@ -334,7 +334,8 @@ For any use or reference to this project please cite the following paper.
   title={COVID-19 outbreak in Italy: experimental chest X-ray scoring system for quantifying and monitoring disease progression},
   author={Borghesi, Andrea and Maroldi, Roberto},
   journal={La radiologia medica},
-  pages={1},
+  volume={125},
+  pages={509-513},
   year={2020},
   publisher={Springer}
 }
