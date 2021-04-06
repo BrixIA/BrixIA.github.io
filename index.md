@@ -7,6 +7,16 @@ show_sidebar: false
 hero_image: img/BrixIA-loghi.jpg
 ---
 
+<div class="box">
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p> <strong> NEWS: </strong> Paper "BS-Net: learning COVID-19 pneumonia severity on a large Chest X-Ray dataset" accepted to Medical Image Analysis</p>
+        </div>
+    </article>
+</div>
+  
+
 <!-- #region -->
 # The BrixIA COVID-19 project
 
@@ -301,6 +311,17 @@ Results of the proposed BS-Net system on five examples from the test-set. (top) 
 For any use or reference to this project please cite the following paper.
 
 ```
+@article{BS-Net2021,
+  title = {BS-Net: learning COVID-19 pneumonia severity on a large Chest X-Ray dataset},
+  journal = {Medical Image Analysis},
+  pages = {102046},
+  year = {2021},
+  issn = {1361-8415},
+  doi = {https://doi.org/10.1016/j.media.2021.102046},
+  url = {https://www.sciencedirect.com/science/article/pii/S136184152100092X},
+  author = {Alberto Signoroni and Mattia Savardi and Sergio Benini and Nicola Adami and Riccardo Leonardi and Paolo Gibellini and Filippo Vaccher and Marco Ravanelli and Andrea Borghesi and Roberto Maroldi and Davide Farina},
+}
+
 @article{borghesi2020covid,
   title={COVID-19 outbreak in Italy: experimental chest X-ray scoring system for quantifying and monitoring disease progression},
   author={Borghesi, Andrea and Maroldi, Roberto},
