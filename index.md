@@ -341,3 +341,7 @@ For any use or reference to this project please cite the following paper.
 }
 
 ```
+
+## Acknowledgement
+
+Part of this project has been funded with support from the Italian Ministry of University and Research (grant n. FISR2020IP_02278, "ResponsiX: Responsible and deployable AI-driven evaluation of COVID-19 disease severity on Chest X-rays") 
