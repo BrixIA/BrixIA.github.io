@@ -11,7 +11,8 @@ hero_image: img/BrixIA-loghi.jpg
     <article class="media">
       <div class="media-content">
         <div class="content">
-          <p> <strong> NEWS: </strong> Paper "BS-Net: learning COVID-19 pneumonia severity on a large Chest X-Ray dataset" accepted to Medical Image Analysis</p>
+          <p><strong> NEWS: </strong><i>BSNet</i> model was used by the two teams that won the <a href="https://ai4covid-hackathon.it/accresults/">"Covid CXR Hackathon"</a>.
+          The <a href="https://github.com/ferraridamiano/covidcxr-hackathon/">code</a> and <a href="https://github.com/ferraridamiano/covidcxr-hackathon/blob/main/covidcxr-hackaton%20Solution%20description.pdf">report</a> for the best "Explainability in AI-based COVID Prognosis" is available.</p>
         </div>
       </div>
     </article>
